@@ -1,6 +1,6 @@
 # flutter_web_dashboard
 
-A new Flutter project.
+Dashboard of pharmacies business management
 
 ## Getting Started
 
